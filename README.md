@@ -17,4 +17,4 @@ This was a quick prototype I made in Figma before I started the project.
 
 ## See it in Action
 Check out this video demo!
-[![Watch the video]](https://www.youtube.com/watch?v=yJAmyP3cJcY)
+[Watch the video](https://www.youtube.com/watch?v=yJAmyP3cJcY)
