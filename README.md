@@ -5,6 +5,9 @@ At a glance, the live team schedule is a Microsoft PowerApps tool that shows whi
 
 ## Prototype
 This was a quick prototype I made in Figma before I started the project.
+<p align="center">
+  <img src="picture.png" alt="Prototype Image" width="738">
+</p>
 
 ## Tools Used
 * Figma for the prototype
@@ -14,4 +17,4 @@ This was a quick prototype I made in Figma before I started the project.
 
 ## See it in Action
 Check out this video demo!
-[![Watch the video](https://img.youtube.com/vi/v=yJAmyP3cJcY/maxresdefault.jpg)](https://www.youtube.com/watch?v=yJAmyP3cJcY)
+[![Watch the video]](https://www.youtube.com/watch?v=yJAmyP3cJcY)
